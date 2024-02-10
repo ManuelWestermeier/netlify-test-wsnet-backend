@@ -1,0 +1,12 @@
+{
+  "name": "netify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node fn"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
